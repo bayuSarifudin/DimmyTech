@@ -1,0 +1,12 @@
+1. Jelaskan tentang local storage, apakah anda pernah mengimplementasikan local storage? jika iya, coba jelaskan
+
+jawab : local storage adalah salah satu cara untuk menyimpan data dari web di dalam penyimpanan local komputer kita,
+sehingga sesi tidak akan kadaluarsa dan data masih tersimpan sebagai mana terakhir kali kita mengunjungi web meskipun browser sudah kita tutup,
+dan untuk ini saya belum pernah menggunakannya
+
+2. bagaimana anda akan menghandle aplikasi online agar masih bisa berjalan dan menyimpan profress user ketika user terputus
+ dengan internet
+
+ jawab : sebenarnya saya belum pernah melakukannya, tapi mungkin saya akan menggunakan sessionconfig yang akan menyimpan ip address dari user
+ dalam jangka waktu tertentu, sehingga ketika user kembali lagi sebelum sesi berakhir, maka user dapat mengakses kembali data yang tadinya sedang 
+ dibuka
